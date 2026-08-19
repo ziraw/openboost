@@ -25,3 +25,4 @@ This is REV2.0 fixing the mistakes of my previous PCB design, it's currently not
 
 ### Schematic
 ![Schematic](/ob-img/schematic-bg.png)
+![CU Layer](/ob-img/ly-cu.png)
