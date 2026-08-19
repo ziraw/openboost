@@ -22,3 +22,7 @@ To set Parameters (PID and Boost) it runs a Webserver on it's own WIFI network. 
 Valve used at Wastegate: BMW N75 Boost Control Valve (on a CA18DET Engine). You have to hook up above mentioned flyback diode directly to the pins of the valve.
 
 This is REV2.0 fixing the mistakes of my previous PCB design, it's currently not field tested. 
+
+### Schematic
+![Schematic](/ob-img/schematic.png)
+![CU Layer](/ob-img/ly-cu.png)
