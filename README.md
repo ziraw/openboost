@@ -24,4 +24,4 @@ Valve used at Wastegate: BMW N75 Boost Control Valve (on a CA18DET Engine). You 
 This is REV2.0 fixing the mistakes of my previous PCB design, it's currently not field tested. 
 
 ### Schematic
-![Schematic](/ob-img/schematic.pdf)
+![Schematic](/ob-img/schematic-bg.png)
