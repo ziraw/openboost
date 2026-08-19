@@ -8,7 +8,7 @@ I'm grabbing the MAP signal off of my gauge atm, which seems to work perfectly f
 
 ### I/O
 It has a 5V output and a sensor passthrough on the JST connector, alongside the main I/O;  
-1 - 12v  
+1 - 12V  
 2 - GND  
 3 - SENS I/O  
 4 - SENS I/O  
